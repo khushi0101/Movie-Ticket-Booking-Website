@@ -5,20 +5,16 @@ This project is aimed at developing a ticket reservation system for cinema halls
 This is one of the most important features of our system as it provides security. It is concluded by examining the existing system on the internet. There was a need to include such features included in the websites and that makes the website more trustworthy. This movie ticket reservation system handles login for the user and the admin that provides functions such as leaving the movies which are being showcased right now, the upcoming movies, booking the theatre hall, selecting the seat number, selecting the time for the movie and finally playing all the details before paying. The admin can add the theatre, the movie and the details of the movie. The admin can also schedule any movie in any hall at any time if it is available he can also view all the booking history.<br/><br/>
 ### ADMIN
 <img width="821" alt="Screenshot 2021-10-14 at 8 13 10 PM" src="https://user-images.githubusercontent.com/81208991/137348095-844409c0-194f-4c45-8631-9ee5c2239f12.png">
-### ADMIN
-<img width="811" alt="Screenshot 2021-10-14 at 8 15 33 PM" src="https://user-images.githubusercontent.com/81208991/137348107-f317e371-8a11-4b80-96cb-01223f694dd2.png">
-### ADMIN
-<img width="811" alt="Screenshot 2021-10-14 at 8 16 36 PM" src="https://user-images.githubusercontent.com/81208991/137348113-e08b2b87-b8c7-42da-ae87-e78e563327a9.png">
 ### ADD SHOW
-<img width="809" alt="Screenshot 2021-10-14 at 8 17 52 PM" src="https://user-images.githubusercontent.com/81208991/137348137-7548306d-810c-4625-8284-1d7c90349517.png">
+<img width="811" alt="Screenshot 2021-10-14 at 8 15 33 PM" src="https://user-images.githubusercontent.com/81208991/137348107-f317e371-8a11-4b80-96cb-01223f694dd2.png">
 ### HOME PAGE
-<img width="809" alt="Screenshot 2021-10-14 at 8 19 07 PM" src="https://user-images.githubusercontent.com/81208991/137348156-a8976cd9-867a-48bc-8863-b443b45c56ef.png">
+<img width="811" alt="Screenshot 2021-10-14 at 8 16 36 PM" src="https://user-images.githubusercontent.com/81208991/137348113-e08b2b87-b8c7-42da-ae87-e78e563327a9.png">
 ### ABOUT MOVIE
+<img width="809" alt="Screenshot 2021-10-14 at 8 17 52 PM" src="https://user-images.githubusercontent.com/81208991/137348137-7548306d-810c-4625-8284-1d7c90349517.png">
+### BOOKING PAGE
+<img width="809" alt="Screenshot 2021-10-14 at 8 19 07 PM" src="https://user-images.githubusercontent.com/81208991/137348156-a8976cd9-867a-48bc-8863-b443b45c56ef.png">
+### SEAT PAGE
 
-![ABOUT MOVIE](https://drive.google.com/file/d/1tECSooSgc6J_sQgrldq5vLnkhILgVr-a/view?usp=sharing)
-<br/><br/>
-![BOOKING PAGE](https://drive.google.com/file/d/12bWj2TemGQmNQh0azw95dF1ZHAANzYGh/view?usp=sharing)
-<br/><br/>
 ![SEAT PAGE](https://drive.google.com/file/d/151LjJDIQb9YK8JAIbSV5W1-x2PZNOlN0/view?usp=sharing)
 <br/><br/>
 ![PAYMENT PAGE](https://drive.google.com/file/d/1r3PMdeYEhq65OMeHYKuZRrqMgzrzy-5_/view?usp=sharing)
