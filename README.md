@@ -13,6 +13,8 @@ This is one of the most important features of our system as it provides security
 <img width="809" alt="Screenshot 2021-10-14 at 8 17 52 PM" src="https://user-images.githubusercontent.com/81208991/137348137-7548306d-810c-4625-8284-1d7c90349517.png"><br/>
 ### ABOUT MOVIE
 <img width="809" alt="Screenshot 2021-10-14 at 8 19 07 PM" src="https://user-images.githubusercontent.com/81208991/137348156-a8976cd9-867a-48bc-8863-b443b45c56ef.png"><br/>
+### BOOKING PAGE
+<img width="1045" alt="Screenshot 2021-10-14 at 8 20 34 PM" src="https://user-images.githubusercontent.com/81208991/137350481-149eff09-f27b-4686-b8f4-22c352dba409.png"><br/>
 ### SEAT PAGE
 <img width="1048" alt="Screenshot 2021-10-14 at 8 21 52 PM" src="https://user-images.githubusercontent.com/81208991/137349502-86132d58-49a7-4a43-ab20-8bdd74a7c6d2.png"><br/>
 ### PAYMENT PAGE
