@@ -6,13 +6,13 @@ This is one of the most important features of our system as it provides security
 ### ADMIN
 <img width="821" alt="Screenshot 2021-10-14 at 8 13 10 PM" src="https://user-images.githubusercontent.com/81208991/137348095-844409c0-194f-4c45-8631-9ee5c2239f12.png"><br/>
 ### ADD SHOW
-<img width="811" alt="Screenshot 2021-10-14 at 8 15 33 PM" src="https://user-images.githubusercontent.com/81208991/137348107-f317e371-8a11-4b80-96cb-01223f694dd2.png">
+<img width="811" alt="Screenshot 2021-10-14 at 8 15 33 PM" src="https://user-images.githubusercontent.com/81208991/137348107-f317e371-8a11-4b80-96cb-01223f694dd2.png"><br/>
 ### HOME PAGE
-<img width="811" alt="Screenshot 2021-10-14 at 8 16 36 PM" src="https://user-images.githubusercontent.com/81208991/137348113-e08b2b87-b8c7-42da-ae87-e78e563327a9.png">
+<img width="811" alt="Screenshot 2021-10-14 at 8 16 36 PM" src="https://user-images.githubusercontent.com/81208991/137348113-e08b2b87-b8c7-42da-ae87-e78e563327a9.png"><br/>
 ### ABOUT MOVIE
-<img width="809" alt="Screenshot 2021-10-14 at 8 17 52 PM" src="https://user-images.githubusercontent.com/81208991/137348137-7548306d-810c-4625-8284-1d7c90349517.png">
+<img width="809" alt="Screenshot 2021-10-14 at 8 17 52 PM" src="https://user-images.githubusercontent.com/81208991/137348137-7548306d-810c-4625-8284-1d7c90349517.png"><br/>
 ### BOOKING PAGE
-<img width="809" alt="Screenshot 2021-10-14 at 8 19 07 PM" src="https://user-images.githubusercontent.com/81208991/137348156-a8976cd9-867a-48bc-8863-b443b45c56ef.png">
+<img width="809" alt="Screenshot 2021-10-14 at 8 19 07 PM" src="https://user-images.githubusercontent.com/81208991/137348156-a8976cd9-867a-48bc-8863-b443b45c56ef.png"><br/>
 ### SEAT PAGE
 
 ![SEAT PAGE](https://drive.google.com/file/d/151LjJDIQb9YK8JAIbSV5W1-x2PZNOlN0/view?usp=sharing)
