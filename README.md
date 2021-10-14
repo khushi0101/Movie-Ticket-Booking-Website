@@ -14,7 +14,7 @@ This is one of the most important features of our system as it provides security
 ### BOOKING PAGE
 <img width="809" alt="Screenshot 2021-10-14 at 8 19 07 PM" src="https://user-images.githubusercontent.com/81208991/137348156-a8976cd9-867a-48bc-8863-b443b45c56ef.png"><br/>
 ### SEAT PAGE
-<img width="1048" alt="Screenshot 2021-10-14 at 8 21 52 PM" src="https://user-images.githubusercontent.com/81208991/137349502-86132d58-49a7-4a43-ab20-8bdd74a7c6d2.png"><b/.>
+<img width="1048" alt="Screenshot 2021-10-14 at 8 21 52 PM" src="https://user-images.githubusercontent.com/81208991/137349502-86132d58-49a7-4a43-ab20-8bdd74a7c6d2.png"><br/>
 ### PAYMENT PAGE
 <img width="1050" alt="Screenshot 2021-10-14 at 8 22 56 PM" src="https://user-images.githubusercontent.com/81208991/137349601-cb2adf06-b88e-4c74-9433-9586b7bdbb10.png"><br/>
 ### TICKET PAGE
