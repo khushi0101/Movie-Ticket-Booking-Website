@@ -14,12 +14,10 @@ This is one of the most important features of our system as it provides security
 ### BOOKING PAGE
 <img width="809" alt="Screenshot 2021-10-14 at 8 19 07 PM" src="https://user-images.githubusercontent.com/81208991/137348156-a8976cd9-867a-48bc-8863-b443b45c56ef.png"><br/>
 ### SEAT PAGE
-
-![SEAT PAGE](https://drive.google.com/file/d/151LjJDIQb9YK8JAIbSV5W1-x2PZNOlN0/view?usp=sharing)
-<br/><br/>
-![PAYMENT PAGE](https://drive.google.com/file/d/1r3PMdeYEhq65OMeHYKuZRrqMgzrzy-5_/view?usp=sharing)
-<br/><br/>
-![TICKET PAGE](https://drive.google.com/file/d/1xRa6r81MXjEe2lZ5cfYtLVhIuprhU2jl/view?usp=sharing)
-<br/><br/>
-![BOOKING HISTORY](https://drive.google.com/file/d/1157UG_HEtXQWLjvE73mTR86G1-Kj4MJd/view?usp=sharing)
-<br/><br/>
+<img width="1048" alt="Screenshot 2021-10-14 at 8 21 52 PM" src="https://user-images.githubusercontent.com/81208991/137349502-86132d58-49a7-4a43-ab20-8bdd74a7c6d2.png"><b/.>
+### PAYMENT PAGE
+<img width="1050" alt="Screenshot 2021-10-14 at 8 22 56 PM" src="https://user-images.githubusercontent.com/81208991/137349601-cb2adf06-b88e-4c74-9433-9586b7bdbb10.png"><br/>
+### TICKET PAGE
+<img width="1049" alt="Screenshot 2021-10-14 at 8 24 03 PM" src="https://user-images.githubusercontent.com/81208991/137349665-6206104c-005f-4972-80c7-7881c4a957cd.png"><br/>
+### BOOKING HISTORY
+<img width="1047" alt="Screenshot 2021-10-14 at 8 25 09 PM" src="https://user-images.githubusercontent.com/81208991/137349713-448dca9f-01b4-4309-82b9-1c46dab80ac6.png">
